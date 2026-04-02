@@ -45,13 +45,6 @@
     "entries": [
       {
         "phases": {
-          "3": 20
-        },
-        "timestamp": 1775130506,
-        "total": 20
-      },
-      {
-        "phases": {
           "4": 10
         },
         "temp_bucket": 200,
@@ -65,6 +58,14 @@
         "temp_bucket": 200,
         "timestamp": 1775138244,
         "total": 9
+      },
+      {
+        "phases": {
+          "4": 15
+        },
+        "temp_bucket": 200,
+        "timestamp": 1775138893,
+        "total": 15
       }
     ]
   },
@@ -110,7 +111,7 @@
           "material": "TPU",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 818.0231323242188,
+          "remaining_weight_g": 816.8284912109375,
           "spool_name": "BambuLab TPU - TPU 95A HF",
           "spoolman_id": 15,
           "total_weight_g": 1000.0
