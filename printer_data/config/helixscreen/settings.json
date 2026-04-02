@@ -66,6 +66,52 @@
         "temp_bucket": 200,
         "timestamp": 1775141535,
         "total": 15
+      },
+      {
+        "phases": {
+          "4": 20
+        },
+        "temp_bucket": 200,
+        "timestamp": 1775140882,
+        "total": 20
+      },
+      {
+        "phases": {
+          "4": 15
+        },
+        "temp_bucket": 200,
+        "timestamp": 1775141535,
+        "total": 15
+      },
+      {
+        "phases": {
+          "4": 15
+        },
+        "temp_bucket": 200,
+        "timestamp": 1775141535,
+        "total": 15
+      },
+      {
+        "phases": {
+          "3": 285
+        },
+        "timestamp": 1775142759,
+        "total": 285
+      },
+      {
+        "phases": {
+          "3": 155
+        },
+        "timestamp": 1775149068,
+        "total": 155
+      },
+      {
+        "phases": {
+          "2": 29,
+          "3": 15
+        },
+        "timestamp": 1775153354,
+        "total": 44
       }
     ]
   },
@@ -105,15 +151,15 @@
       "filament": {
         "external_spool": {
           "assigned": true,
-          "bed_temp": 35,
-          "brand": "BambuLab",
-          "color_rgb": 16777215,
-          "material": "TPU",
+          "bed_temp": 110,
+          "brand": "Sunlu",
+          "color_rgb": 0,
+          "material": "ABS",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 812.0418701171875,
-          "spool_name": "BambuLab TPU - TPU 95A HF",
-          "spoolman_id": 15,
+          "remaining_weight_g": 895.718017578125,
+          "spool_name": "Sunlu ABS - ABS Black",
+          "spoolman_id": 14,
           "total_weight_g": 1000.0
         }
       },
@@ -170,7 +216,7 @@
             "temperature_sensor cartographer",
             "temperature_sensor cartographer_coil"
           ],
-          "timestamp": "2026-04-02T13:24:03Z"
+          "timestamp": "2026-04-02T18:09:51Z"
         },
         "optional": []
       },
