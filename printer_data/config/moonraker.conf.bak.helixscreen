@@ -78,6 +78,10 @@ type: web
 channel: stable
 repo: prestonbrown/helixscreen
 path: /home/ykz/helixscreen
+persistent_files:
+    config/helixconfig.json
+    config/helixscreen.env
+    config/.disabled_services
 
 [update_manager mobileraker]
 install_script: /home/ykz/mobileraker_companion/scripts/install.sh
